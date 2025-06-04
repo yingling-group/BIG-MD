@@ -56,4 +56,4 @@ For example: `1V9E`, `6IM0`, etc.
 ## Citation ##
 If you use this tutorial in your teaching, workshop, or publication, please cite:
 
-Fedai, M., Kwansa, A.L., & Yingling, Y.G. (2025). Cloud-based molecular dynamics simulations with AMBER: An interactive “collabortutorial” via Google Colab. In Proceedings of the 2025 Biocatalyst Interactions with Gases Research Symposium. North Carolina State University, Raleigh, NC, USA.
+Fedai, M., Kwansa, A.L., & Yingling, Y.G. (2025). Cloud-based molecular dynamics simulations with AMBER: An interactive “collabortutorial” via Google Colab. In Proceedings of the 2025 Biocatalyst Interactions with Gases Research Symposium. North Carolina State University, Raleigh, NC, USA. https://doi.org/10.5281/zenodo.15597021
